@@ -9,6 +9,7 @@ public class TestgitApplication {
     public static void main(String[] args) {
         SpringApplication.run(TestgitApplication.class, args);
         System.out.println("老潘学git ");
+        System.out.println("老潘学git2提交 ");
     }
 
 
